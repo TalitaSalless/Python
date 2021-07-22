@@ -1,3 +1,3 @@
 # Python-
-Iniciando Python
+Iniciando Python;
 Exercicios - Curso em Video. 
