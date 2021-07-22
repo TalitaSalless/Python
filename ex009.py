@@ -1,4 +1,3 @@
-#09 Faca um programa que leia um número qualquer e mostre na tela a sua tabuada.
 n = int(input('Digite um numero:'))
 print (f'A tabuada de {n} é:')
 print (f' {n} x 1 = {n*1}')
