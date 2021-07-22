@@ -1,4 +1,3 @@
-#08 Escreva um programa que leia um valor em metro e o exiba convertido em centímetros e milímetros.
 medida = float(input('Digite quantos metros;'))
 cm = medida * 100
 mm = medida * 1000
