@@ -8,7 +8,3 @@ print('A unidade dele é: {}'.format(u))
 print('A dezena dele é: {}'.format(d))
 print('A centena dele é: {}'.format(c))
 print('O milhar dele é: {}'.format(m))
-
-
-
-
