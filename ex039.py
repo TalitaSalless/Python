@@ -23,10 +23,11 @@ elif idade < 18:
     saldo = 18 - idade
     print('Ainda faltam {} anos para o alistamento.'.format(saldo))
     ano = atual + saldo
-    print('Voce deve se alistar no ano {}.'.format(ano))
-else:
+    print('Voce irá se alistar no ano de {}.'.format(ano))
+elif idade > 18:
     saldo = idade - 18
-    print('Voce deve se alistar no ano de {}.'.format(saldo))
+    print('Já passaram mais de {} anos.'.format(saldo))
     ano = atual - saldo
     print('Voce já deveria ter se alistado em {}.'.format(ano))
-
+else:
+    print('Fim do Programa')
