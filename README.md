@@ -1,2 +1,4 @@
-<h1 align="center">Iniciando Python</h1>
-<p align="center">Exercícios de Python - Curso em Vídeo do Prof. Gustavo Guanabara.</p>
+# Projetos em Python - Básico. 🐍
+
+### Exercícios resolvidos das aulas de Python do Curso em Video. 
+Prof. Gustavo Guanabara.
